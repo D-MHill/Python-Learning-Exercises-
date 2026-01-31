@@ -2,15 +2,15 @@
 
 # == Exercise One ==
 
-# print("")
-# print("Function: divide_by_two_and_add_one")
+print("")
+print("Function: divide_by_two_and_add_one")
 
-# def divide_by_two_and_add_one(num):
-#   divided = num/2
-#   added = divided + 1
-#   return added
+def divide_by_two_and_add_one(num):
+  divided = num/2
+  added = divided + 1
+  return added
 
-# print(divide_by_two_and_add_one(6))
+print(divide_by_two_and_add_one(6))
 
 # check_that_these_are_equal(
 #   divide_by_two_and_add_one(6),
@@ -19,16 +19,16 @@
 
 # == Exercise Two ==
 
-# print("")
-# print("Function: multiply_by_forty_and_add_sixty")
+print("")
+print("Function: multiply_by_forty_and_add_sixty")
 
-# def multiply_by_forty_and_add_sixty(num):
+def multiply_by_forty_and_add_sixty(num):
   # Multiply num by forty, and then add sixty
-#   multi = num * 40
-#   adding = multi + 60
-#   return adding
+  multi = num * 40
+  adding = multi + 60
+  return adding
 
-# print(multiply_by_forty_and_add_sixty(3423))
+print(multiply_by_forty_and_add_sixty(3423))
 
 # check_that_these_are_equal(
 #   multiply_by_forty_and_add_sixty(3423),
